@@ -659,3 +659,110 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+
+=========================== FaLKM-Lib Copyright ===========================
+
+FaLKM-Lib
+---------
+
+Available at http://disi.unitn.it/~segata/FaLKM-lib
+
+Author: Nicola Segata
+segata@disi.unitn.it
+
+Dipartimento di Ingegneria e Scienza dell'Informazione
+Via Sommarive, 14 I-38100 POVO
+Trento - ITALY
+
+LICENSING TERMS
+
+This program is granted free of charge for research and education
+purposes. However you must obtain a license from the author to use it
+for commercial purposes. This program is an extension of LibSVM by
+Chih-Chung Chang and Chih-Jen Lin (see copyright below)
+
+Scientific results produced using the software provided shall
+acknowledge the use of FaLKM-lib. Please cite as
+
+       Nicola Segata, FaLKM-lib: a Library for Fast Local Kernel Machines, 2009. Software available at http://disi.unitn.it/~segata/FaLKM-lib
+
+Bibtex entry:
+@TECHREPORT{Segata2009,
+  AUTHOR =       {Nicola Segata},
+  TITLE =        {{FaLKM-lib v1.0: a Library for Fast Local Kernel Machines}},
+  INSTITUTION =  {DISI, University of Trento, Italy},
+  YEAR =         {2009},
+  note = 				 {Software available at \url{http://disi.unitn.it/~segata/FaLKM-lib}}
+  number =       {DISI-09-025},
+}
+
+Please cite also the paper relative to the FaLKM-lib you use as described at http://disi.unitn.it/~segata/FaLKM-lib
+
+The software can be modified and distributed without prior
+permission of the author for research and education purposes.
+
+By using FaLKM-lib you agree to the licensing terms.
+
+
+NO WARRANTY
+
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT
+WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER
+PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+PROGRAM IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF
+THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO
+LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY
+OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGES.
+
+FaLKM-lin extends the LibSVM software, the copyright for LibSVM is
+
+=========================== FaLKM-Lib Copyright ===========================
+
+
+=========================== LIBSVM Copyright ===========================
+
+Copyright (c) 2000, 2001 Chih-Chung Chang and Chih-Jen Lin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+3. Neither name of copyright holders nor the names of its contributors
+may be used to endorse or promote products derived from this software
+without specific prior written permission.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+=========================== LIBSVM Copyright ===========================
