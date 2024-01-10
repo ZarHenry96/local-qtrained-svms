@@ -196,6 +196,3 @@ results/
 
 # Temporary files folders
 tmp/
-
-# LibSVM 2.88 directory
-comparison_utils/LibSVM_2.88
