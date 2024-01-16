@@ -4,7 +4,7 @@ This repository provides the code for the article "E. Zardini, A. Delilbasic, E.
 In particular, the code provided here is based on:
 - the [FaLK-SVM source code](http://disi.unitn.it/~segata/FaLKM-lib), associated with the article "N. Segata, E. Blanzieri (2010). Fast and Scalable Local Kernel Machines. JMLR";
 - the [QBSVM source code](https://gitlab.jsc.fz-juelich.de/sdlrs/quantum-svm-algorithms-for-rs-data-classification/-/tree/master/experiments/QA_SVM?ref_type=heads), associated with the article "D. Willsch, M. Willsch, H. De Raedt, K. Michielsen (2020). Support Vector Machines on the D-Wave Quantum Annealer. Computer Physics Communications";
-- the [QMSVM source code](https://gitlab.jsc.fz-juelich.de/sdlrs/qmsvm), associated with the article "A. Delilbasic, B. Le Saux, M. Riedel, K. Michielsen, G. Cavallaro. A Single-Step Multiclass SVM Based on Quantum Annealing for Remote Sensing Data Classification. IEEE JSTARS".
+- the [QMSVM source code](https://gitlab.jsc.fz-juelich.de/sdlrs/qmsvm), associated with the article "A. Delilbasic, B. Le Saux, M. Riedel, K. Michielsen, G. Cavallaro (2023). A Single-Step Multiclass SVM Based on Quantum Annealing for Remote Sensing Data Classification. IEEE JSTARS".
 
 ## 1. Prerequisites
 In order to compile and run the code, you need to have:
