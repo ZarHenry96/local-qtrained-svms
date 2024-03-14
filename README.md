@@ -1,5 +1,5 @@
 # Local Quantum-Trained SVMs
-This repository provides the code for the article "E. Zardini, A. Delilbasic, E. Blanzieri, G. Cavallaro, D. Pastorello. Local Binary and Multiclass SVMs Trained on a Quantum Annealer" (final writing in progress).
+This repository provides the code for the article "E. Zardini, A. Delilbasic, E. Blanzieri, G. Cavallaro, D. Pastorello. Local Binary and Multiclass SVMs Trained on a Quantum Annealer".
 
 In particular, the code provided here is based on:
 - the [FaLK-SVM source code](http://disi.unitn.it/~segata/FaLKM-lib), associated with the article "N. Segata, E. Blanzieri (2010). Fast and Scalable Local Kernel Machines. JMLR";
